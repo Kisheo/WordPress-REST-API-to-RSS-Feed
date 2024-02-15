@@ -14,6 +14,7 @@ A Simple php program to convert REST API data from Wordpress to XML Rss Feed.
 
 3. **Running the Script**:
    - Execute the PHP script by running:
+   - yoururl/converter.php?api=rest-api-url&page=value&per_page=value
      ```yoururl/converter.php?api=rest-api-url&page=value&per_page=value
      ```
    - The script will fetch data from the API and generate an XML feed.
